@@ -30,3 +30,4 @@ project about threads
 ## Статья и источники
 * [Плейлист про потоки на youtube](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 * [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial#Overview)
+* [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
