@@ -27,7 +27,7 @@ project about threads
 
 <!-- ![project_img](https://upload.wikimedia.org/wikipedia/commons/7/7b/An_illustration_of_the_dining_philosophers_problem.png) -->
 
-## Статья и источники
+## Статьи и источники
 * [Плейлист про потоки на youtube](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 * [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial#Overview)
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
